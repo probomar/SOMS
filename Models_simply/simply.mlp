@@ -1,0 +1,60 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_96_tibia.stl" visible="1" label="Segmentation_Model_96_tibia.stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="64 64 64 255" pointColor="252 233 79 255">110001000000000000000110000001011100000010100000010100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_83_femoral_cartilage.stl" visible="1" label="Segmentation_Model_83_femoral_cartilage.stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="0 85 0 255" pointColor="252 233 79 255">110001000000000000000110000001011100000010100000010100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_84_lateral_tibial_cartilage.stl" visible="1" label="Segmentation_Model_84_lateral_tibial_cartilage.stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="0 85 0 255" pointColor="252 233 79 255">110001000000000000000110000001011100000010100000010100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_85_medial_tibial_cartilage.stl" visible="1" label="Segmentation_Model_85_medial_tibial_cartilage.stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="0 85 0 255" pointColor="252 233 79 255">110001000000000000000110000001011100000010100000010100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_95_femur.stl" visible="1" label="Segmentation_Model_95_femur(1).stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="64 64 64 255" pointColor="252 233 79 255">110001000000000000000110000001011100000010100000010100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_31_anterior_cruciate_ligament.stl" visible="1" label="Segmentation_Model_31_anterior_cruciate_ligament.stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="64 64 64 255" pointColor="252 233 79 255">100001000000000000000100000001011100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_32_posterior_cruciate_ligament.stl" visible="1" label="Segmentation_Model_32_posterior_cruciate_ligament.stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="64 64 64 255" pointColor="252 233 79 255">100001000000000000000100000001011100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_33_fibular_collateral_ligament.stl" visible="1" label="Segmentation_Model_33_fibular_collateral_ligament.stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="64 64 64 255" pointColor="252 233 79 255">100001000000000000000100000001011100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../4_2 Modely simply/Segmentation_Model_34_tibial_collateral_ligament.stl" visible="1" label="Segmentation_Model_34_tibial_collateral_ligament.stl" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" solidColor="192 192 192 255" pointSize="3" wireColor="64 64 64 255" pointColor="252 233 79 255">100001000000000000000100000001011100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
